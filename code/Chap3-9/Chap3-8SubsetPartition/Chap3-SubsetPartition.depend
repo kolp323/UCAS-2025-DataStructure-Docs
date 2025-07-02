@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1678180714 source:d:\studycase\ccodeblocks\chap3-subsetpartition\queue.c
+	"queue.h"
+
+1678180714 d:\studycase\ccodeblocks\chap3-subsetpartition\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1678191733 source:c:\course-datastructure-ccodeblocks\chap3\chap3-8subsetpartition\main.c
+	"queue.h"
+
+1678180714 c:\course-datastructure-ccodeblocks\chap3\chap3-8subsetpartition\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1678180714 source:c:\course-datastructure-ccodeblocks\chap3\chap3-8subsetpartition\queue.c
+	"queue.h"
+

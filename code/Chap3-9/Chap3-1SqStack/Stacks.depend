@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1710072742 source:d:\studycase\ccodeblocks\stacks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqStack.h"
+
+1710073341 d:\studycase\ccodeblocks\stacks\sqstack.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1710073161 source:d:\studycase\ccodeblocks\stacks\sqstack.c
+	"SqStack.h"
+
+1710073161 source:d:\studycase\ccodeblocks\chap3-1sqstack\sqstack.c
+	"SqStack.h"
+
+1710073341 d:\studycase\ccodeblocks\chap3-1sqstack\sqstack.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+

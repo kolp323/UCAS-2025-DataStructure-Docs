@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678177753 source:d:\studycase\ccodeblocks\chap3-mazepath-stack\stack.c
+	"stack.h"
+
+1678177689 d:\studycase\ccodeblocks\chap3-mazepath-stack\stack.h
+	<malloc.h>
+	<stdio.h>
+
+1678177754 source:d:\teaching-2025\course-datastructure-ccodeblocks\chap3-9\chap3-4mazepath-stack\stack.c
+	"stack.h"
+
+1678177690 d:\teaching-2025\course-datastructure-ccodeblocks\chap3-9\chap3-4mazepath-stack\stack.h
+	<malloc.h>
+	<stdio.h>
+

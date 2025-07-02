@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1678178340 source:d:\studycase\ccodeblocks\chap3-7mazepath-queue\queue.c
+	"queue.h"
+
+1678178340 d:\studycase\ccodeblocks\chap3-7mazepath-queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1678178340 source:c:\course-datastructure-ccodeblocks\chap3\chap3-7mazepath-queue\queue.c
+	"queue.h"
+
+1678178340 c:\course-datastructure-ccodeblocks\chap3\chap3-7mazepath-queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1678178342 source:d:\teaching-2025\course-datastructure-ccodeblocks\chap3-9\chap3-7mazepath-queue\queue.c
+	"queue.h"
+
+1678178342 d:\teaching-2025\course-datastructure-ccodeblocks\chap3-9\chap3-7mazepath-queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1742129799 source:d:\teaching-2025\course-datastructure-ccodeblocks\chap3-9\chap3-7mazepath-queue\main.c
+	"queue.h"
+

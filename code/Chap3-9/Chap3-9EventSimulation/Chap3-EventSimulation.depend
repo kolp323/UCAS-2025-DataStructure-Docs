@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1678181141 source:c:\course-datastructure-ccodeblocks\chap3\chap3-9eventsimulation\clientqueue.c
+	"ClientQueue.h"
+
+1678181141 c:\course-datastructure-ccodeblocks\chap3\chap3-9eventsimulation\clientqueue.h
+	<stdio.h>
+	<malloc.h>
+	"Common.h"
+
+1678181141 c:\course-datastructure-ccodeblocks\chap3\chap3-9eventsimulation\common.h
+
+1678181141 source:c:\course-datastructure-ccodeblocks\chap3\chap3-9eventsimulation\eventlist.c
+	"EventList.h"
+
+1678181141 c:\course-datastructure-ccodeblocks\chap3\chap3-9eventsimulation\eventlist.h
+	<stdio.h>
+	<malloc.h>
+	"Common.h"
+
+1710713244 source:c:\course-datastructure-ccodeblocks\chap3\chap3-9eventsimulation\main.c
+	<stdlib.h>
+	<time.h>
+	"EventList.h"
+	"ClientQueue.h"
+

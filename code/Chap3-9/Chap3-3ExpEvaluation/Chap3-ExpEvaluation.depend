@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678176912 source:d:\studycase\ccodeblocks\chap3-expevaluation\stack.c
+	"stack.h"
+
+1678176938 d:\studycase\ccodeblocks\chap3-expevaluation\stack.h
+	<stdio.h>
+	<malloc.h>
+

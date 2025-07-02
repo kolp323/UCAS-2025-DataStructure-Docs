@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710249347 source:c:\course-datastructure-ccodeblocks\chap3\chap3-6circularqueue-pascal's triangle\circularqueue.c
+	"CircularQueue.h"
+
+1710249347 c:\course-datastructure-ccodeblocks\chap3\chap3-6circularqueue-pascal's triangle\circularqueue.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
